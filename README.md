@@ -14,5 +14,6 @@ www dinamicaestudios co, podrá encontrar para su descarga:
 
 Invitamos a los profesionales, investigadores y estudiantes, y a todo el público en general, a utilizar este
 material con fines académicos y hacernos llegar las sugerencias y consultas que tengan a nuestro
-correo electrónico contacto@dinamicaestudios co
+correo electrónico contacto@dinamicaestudios.co
+
 ¡Nos leemos!
