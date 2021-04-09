@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Motivados por la generación y difusión del conocimiento, DinámicaEstudios pone a disposición de los interesados el material utilizado durante el desarrollo de este estudio En nuestra página web, www dinamicaestudios co, podrá encontrar para su descarga:
 
-You can use the [editor on GitHub](https://github.com/Dinamica-Estudios/Resultados-Estudio-Plebiscito-25-de-Octubre/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+•Cuestionario utilizado en levantamiento de datos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•Base de datos con respuestas de encuestados, en formato Excel y SPSS
 
-### Markdown
+•Libro de códigos de todas las variables incluidas en la base de datos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•Tablas de resultados
 
-```markdown
-Syntax highlighted code block
+•Informe de resultados
 
-# Header 1
-## Header 2
-### Header 3
+Invitamos a los profesionales, investigadores y estudiantes, y a todo el público en general, a utilizar este material con fines académicos y hacernos llegar las sugerencias y consultas que tengan a nuestro correo electrónico contacto@dinamicaestudios.co
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dinamica-Estudios/Resultados-Estudio-Plebiscito-25-de-Octubre/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+¡Nos leemos!
